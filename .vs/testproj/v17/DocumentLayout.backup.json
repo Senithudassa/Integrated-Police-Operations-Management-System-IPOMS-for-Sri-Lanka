@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\data\\criminalactivitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:data\\criminalactivitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\controllers\\robberyreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:controllers\\robberyreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\models\\violation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:models\\violation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\controllers\\criminalactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:controllers\\criminalactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\controllers\\accidentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:controllers\\accidentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\controllers\\narcoticactivitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:controllers\\narcoticactivitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\migrations\\20250119060849_addadmintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:migrations\\20250119060849_addadmintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\models\\accident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:models\\accident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\models\\narcoticactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:models\\narcoticactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\wwwroot\\narcotics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:wwwroot\\narcotics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\wwwroot\\criminalactivity.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:wwwroot\\criminalactivity.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\wwwroot\\cybercrime.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:wwwroot\\cybercrime.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\wwwroot\\robbery.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:wwwroot\\robbery.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\models\\criminalactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:models\\criminalactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\wwwroot\\traffic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:wwwroot\\traffic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\controllers\\violationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:controllers\\violationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\models\\robberyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:models\\robberyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\testproj.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:testproj.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|c:\\users\\senithu dasanayake\\downloads\\integrated-police-operations-management-system-ipoms-for-sri-lanka\\testproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F0ED119-E2E4-42C1-9CDB-670B24D76D4A}|testproj.csproj|solutionrelative:testproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NarcoticActivitiy.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\NarcoticActivitiy.cs",
+              "RelativeDocumentMoniker": "Controllers\\NarcoticActivitiy.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\NarcoticActivitiy.cs",
+              "RelativeToolTip": "Controllers\\NarcoticActivitiy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:30:04.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CriminalActivityController.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\CriminalActivityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CriminalActivityController.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\CriminalActivityController.cs",
+              "RelativeToolTip": "Controllers\\CriminalActivityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:42:23.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T06:15:32.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Violation.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\Violation.cs",
+              "RelativeDocumentMoniker": "Models\\Violation.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\Violation.cs",
+              "RelativeToolTip": "Models\\Violation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:19:59.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CriminalActivityContext.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Data\\CriminalActivityContext.cs",
+              "RelativeDocumentMoniker": "Data\\CriminalActivityContext.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Data\\CriminalActivityContext.cs",
+              "RelativeToolTip": "Data\\CriminalActivityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:27:08.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T05:51:57.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:59:20.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobberyReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\RobberyReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RobberyReportsController.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\RobberyReportsController.cs",
+              "RelativeToolTip": "Controllers\\RobberyReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:16:09.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccidentController.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\AccidentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccidentController.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\AccidentController.cs",
+              "RelativeToolTip": "Controllers\\AccidentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:24:54.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T05:56:05.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:44:53.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250119060849_AddAdminTable.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Migrations\\20250119060849_AddAdminTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250119060849_AddAdminTable.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Migrations\\20250119060849_AddAdminTable.cs",
+              "RelativeToolTip": "Migrations\\20250119060849_AddAdminTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T06:08:49.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Accident.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\Accident.cs",
+              "RelativeDocumentMoniker": "Models\\Accident.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\Accident.cs",
+              "RelativeToolTip": "Models\\Accident.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:21:35.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\AuthModel.cs",
+              "RelativeDocumentMoniker": "Models\\AuthModel.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\AuthModel.cs",
+              "RelativeToolTip": "Models\\AuthModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:38:09.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NarcoticActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\NarcoticActivity.cs",
+              "RelativeDocumentMoniker": "Models\\NarcoticActivity.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\NarcoticActivity.cs",
+              "RelativeToolTip": "Models\\NarcoticActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:34:53.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "narcotics.html",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\narcotics.html",
+              "RelativeDocumentMoniker": "wwwroot\\narcotics.html",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\narcotics.html",
+              "RelativeToolTip": "wwwroot\\narcotics.html",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAgwDoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-11T08:24:22.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "cybercrime.html",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\cybercrime.html",
+              "RelativeDocumentMoniker": "wwwroot\\cybercrime.html",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\cybercrime.html",
+              "RelativeToolTip": "wwwroot\\cybercrime.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-11T08:12:22.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CriminalActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\CriminalActivity.cs",
+              "RelativeDocumentMoniker": "Models\\CriminalActivity.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\CriminalActivity.cs",
+              "RelativeToolTip": "Models\\CriminalActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:32:22.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CriminalActivity.html",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\CriminalActivity.html",
+              "RelativeDocumentMoniker": "wwwroot\\CriminalActivity.html",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\CriminalActivity.html",
+              "RelativeToolTip": "wwwroot\\CriminalActivity.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-10T08:31:00.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\home.html",
+              "RelativeDocumentMoniker": "wwwroot\\home.html",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\home.html",
+              "RelativeToolTip": "wwwroot\\home.html",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-19T12:37:03.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "robbery.html",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\robbery.html",
+              "RelativeDocumentMoniker": "wwwroot\\robbery.html",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\robbery.html",
+              "RelativeToolTip": "wwwroot\\robbery.html",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAgwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-26T06:08:47.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViolationController.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\ViolationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ViolationController.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\ViolationController.cs",
+              "RelativeToolTip": "Controllers\\ViolationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:23:07.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "traffic.html",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\traffic.html",
+              "RelativeDocumentMoniker": "wwwroot\\traffic.html",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\traffic.html",
+              "RelativeToolTip": "wwwroot\\traffic.html",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-09T05:48:46.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LicenseController.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\LicenseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LicenseController.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Controllers\\LicenseController.cs",
+              "RelativeToolTip": "Controllers\\LicenseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:24:13.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "License.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\License.cs",
+              "RelativeDocumentMoniker": "Models\\License.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\License.cs",
+              "RelativeToolTip": "Models\\License.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:20:54.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:35:30.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RobberyReport.cs",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\RobberyReport.cs",
+              "RelativeDocumentMoniker": "Models\\RobberyReport.cs",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Models\\RobberyReport.cs",
+              "RelativeToolTip": "Models\\RobberyReport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:30:55.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T19:36:17.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\script.js",
+              "RelativeToolTip": "wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-19T14:10:39.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\styles.css",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\styles.css",
+              "RelativeToolTip": "wwwroot\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-19T14:12:05.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "admin.html",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\admin.html",
+              "RelativeDocumentMoniker": "wwwroot\\admin.html",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\admin.html",
+              "RelativeToolTip": "wwwroot\\admin.html",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-21T06:35:03.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\login.html",
+              "RelativeDocumentMoniker": "wwwroot\\login.html",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\login.html",
+              "RelativeToolTip": "wwwroot\\login.html",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-19T12:22:25.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T06:30:33.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T06:50:10.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-27T09:40:50.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "testproj.http",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.http",
+              "RelativeDocumentMoniker": "testproj.http",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.http",
+              "RelativeToolTip": "testproj.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-18T19:36:08.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAawAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-26T07:42:33.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "testproj.csproj",
+              "DocumentMoniker": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.csproj",
+              "RelativeDocumentMoniker": "testproj.csproj",
+              "ToolTip": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.csproj",
+              "RelativeToolTip": "testproj.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T06:25:17.69Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

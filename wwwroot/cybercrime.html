@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber Crime Unit - Sri Lanka Police</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        :root {
+            --primary-blue: #1a73e8;
+            --light-blue: #e8f0fe;
+            --hover-blue: #4285f4;
+            --primary-light: #3498db;
+            --primary-dark: #2c3e50;
+            --white: #ffffff;
+            --light-gray: #f5f6fa;
+            --accent-green: #28a745;
+        }
+
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%);
+            min-height: 100vh;
+            font-size: 16px;
+        }
+
+        header {
+            background: linear-gradient(90deg, #0e3a75 0%, #0b1627 100%);
+            padding: 1rem 2rem;
+            color: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+            header .logo-container {
+                display: flex;
+                align-items: center;
+                gap: 1rem;
+            }
+
+            header .logo {
+                width: 50px;
+                height: 50px;
+                background: white;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            header .user-nav {
+                display: flex;
+                gap: 2rem;
+                align-items: center;
+            }
+
+                header .user-nav button {
+                    background: transparent;
+                    border: 1px solid white;
+                    color: white;
+                    padding: 0.5rem 1rem;
+                    border-radius: 5px;
+                    cursor: pointer;
+                    transition: all 0.3s ease;
+                }
+
+                    header .user-nav button:hover {
+                        background: red;
+                        color: white;
+                    }
+
+        section.hero {
+            background-color: var(--primary-light);
+            color: var(--white);
+            padding: 3rem 2rem;
+            text-align: center;
+            transition: background-color 0.5s ease;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            transform: scale(1);
+            transition: transform 0.3s ease;
+        }
+
+            section.hero:hover {
+                background-color: var(--hover-blue);
+                transform: scale(1.05);
+            }
+
+            section.hero h1 {
+                font-size: 2.5rem;
+                margin-bottom: 1rem;
+                transition: color 0.3s ease;
+            }
+
+            section.hero p {
+                font-size: 1.2rem;
+                opacity: 0.9;
+            }
+
+        .content {
+            padding: 2rem;
+            background: var(--white);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            margin: 2rem auto;
+            max-width: 1200px;
+            text-align: center;
+            transition: box-shadow 0.3s ease;
+        }
+
+            .content:hover {
+                box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            }
+
+            .content h2 {
+                color: var(--primary-blue);
+                margin-bottom: 1rem;
+                font-size: 2rem;
+                transition: color 0.3s ease;
+            }
+
+                .content h2:hover {
+                    color: var(--hover-blue);
+                }
+
+            .content p {
+                font-size: 1.2rem;
+                margin-bottom: 2rem;
+                color: var(--primary-dark);
+            }
+
+        .card {
+            background: var(--white);
+            padding: 1.5rem;
+            border-radius: 10px;
+            margin: 1rem;
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+            transition: box-shadow 0.3s ease, transform 0.3s ease;
+        }
+
+            .card:hover {
+                transform: scale(1.05);
+                box-shadow: 0 8px 22px rgba(0, 0, 0, 0.15);
+            }
+
+            .card h3 {
+                color: var(--primary-blue);
+                font-size: 1.8rem;
+                margin-bottom: 0.8rem;
+            }
+
+            .card p {
+                font-size: 1.1rem;
+                color: var(--primary-dark);
+                margin-bottom: 1.5rem;
+            }
+
+        footer {
+            background: linear-gradient(90deg, #1a73e8 0%, #4285f4 100%);
+            color: white;
+            padding: 2rem;
+            margin-top: 4rem;
+            text-align: center;
+            font-size: 1rem;
+        }
+
+        form {
+            background: var(--white);
+            padding: 2rem;
+            margin: 2rem auto;
+            max-width: 800px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+            form:hover {
+                transform: translateY(-5px);
+            }
+
+            form label {
+                display: block;
+                margin-bottom: 8px;
+                font-size: 1.1rem;
+                color: var(--primary-dark);
+            }
+
+            form input, form select, form textarea {
+                width: 100%;
+                padding: 10px;
+                margin: 12px 0;
+                border-radius: 5px;
+                border: 1px solid #ccc;
+                font-size: 1rem;
+            }
+
+            form button {
+                background-color: var(--primary-blue);
+                color: var(--white);
+                padding: 12px 20px;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 1.1rem;
+                transition: background-color 0.3s ease, transform 0.3s ease;
+            }
+
+                form button:hover {
+                    background-color: var(--hover-blue);
+                    transform: scale(1.05);
+                }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo-container">
+            <div class="logo">
+                <i class="fas fa-shield-alt"></i>
+            </div>
+            <h1>Sri Lanka Police</h1>
+        </div>
+        <div class="user-nav">
+            <span>Welcome, Officer Johnson</span>
+            <button onclick="logout()">Logout</button>
+        </div>
+    </header>
+
+    <section class="hero">
+        <h1>Cyber Crime Unit</h1>
+        <p>Investigating online crimes with advanced technology and methods.</p>
+    </section>
+
+    <section class="content">
+        <h2>Manage Cyber Crime Investigations</h2>
+        <p>Input new cybercrime activity or update existing records below.</p>
+
+        <!-- Add New Cybercrime Activity Form -->
+        <form id="addForm" action="add_activity.php" method="POST">
+            <label for="activity">Cybercrime Activity</label>
+            <input type="text" id="activity" name="activity" placeholder="Describe the activity" required>
+
+            <label for="suspect">Suspect Name</label>
+            <input type="text" id="suspect" name="suspect" placeholder="Enter suspect name" required>
+
+            <label for="date">Date of Incident</label>
+            <input type="date" id="date" name="date" required>
+
+            <label for="location">Location of Incident</label>
+            <input type="text" id="location" name="location" placeholder="Enter location" required>
+
+            <label for="details">Additional Details</label>
+            <textarea id="details" name="details" rows="4" placeholder="Provide additional details about the crime" required></textarea>
+
+            <button type="submit">Add Cybercrime Activity</button>
+        </form>
+
+        <!-- Update Cybercrime Activity Form -->
+        <form id="updateForm" action="update_activity.php" method="POST">
+            <label for="activityId">Cybercrime Activity ID</label>
+            <input type="number" id="activityId" name="activityId" placeholder="Enter the ID of the cybercrime activity" required>
+
+            <label for="newSuspect">Updated Suspect Name</label>
+            <input type="text" id="newSuspect" name="newSuspect" placeholder="Enter updated suspect name">
+
+            <label for="newDetails">Updated Details</label>
+            <textarea id="newDetails" name="newDetails" rows="4" placeholder="Provide updated details about the crime"></textarea>
+
+            <button type="submit">Update Activity</button>
+        </form>
+
+        <!-- Delete Cybercrime Activity Form -->
+        <form id="deleteForm" action="delete_activity.php" method="POST">
+            <label for="deleteId">Cybercrime Activity ID</label>
+            <input type="number" id="deleteId" name="deleteId" placeholder="Enter the ID of the activity to delete" required>
+
+            <button type="submit">Delete Activity</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2025 Sri Lanka Police Management System | Emergency: 119</p>
+    </footer>
+
+    <script>
+        // Simulate logout action
+        function logout() {
+            console.log('Logging out...');
+            // Add actual logout logic here
+        }
+    </script>
+
+</body>
+</html>

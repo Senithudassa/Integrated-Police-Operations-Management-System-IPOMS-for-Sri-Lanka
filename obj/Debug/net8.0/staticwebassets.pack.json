@@ -1,20 +1,40 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\senith\\Desktop\\SE2 proj\\testproj\\wwwroot\\home.html",
+      "Id": "C:\\Users\\ASUS\\Desktop\\repisitorary\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\CriminalActivity.html",
+      "PackagePath": "staticwebassets\\CriminalActivity.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\repisitorary\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\admin.html",
+      "PackagePath": "staticwebassets\\admin.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\repisitorary\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\cybercrime.html",
+      "PackagePath": "staticwebassets\\cybercrime.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\repisitorary\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\home.html",
       "PackagePath": "staticwebassets\\home.html"
     },
     {
-      "Id": "C:\\Users\\senith\\Desktop\\SE2 proj\\testproj\\wwwroot\\login.html",
+      "Id": "C:\\Users\\ASUS\\Desktop\\repisitorary\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\login.html",
       "PackagePath": "staticwebassets\\login.html"
     },
     {
-      "Id": "C:\\Users\\senith\\Desktop\\SE2 proj\\testproj\\wwwroot\\script.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\repisitorary\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\robbery.html",
+      "PackagePath": "staticwebassets\\robbery.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\repisitorary\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\script.js",
       "PackagePath": "staticwebassets\\script.js"
     },
     {
-      "Id": "C:\\Users\\senith\\Desktop\\SE2 proj\\testproj\\wwwroot\\styles.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\repisitorary\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\styles.css",
       "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\repisitorary\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\traffic.html",
+      "PackagePath": "staticwebassets\\traffic.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.testproj.props",
@@ -27,6 +47,10 @@
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.testproj.props",
       "PackagePath": "buildTransitive\\testproj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.testproj.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.testproj.Microsoft.AspNetCore.StaticWebAssets.props",

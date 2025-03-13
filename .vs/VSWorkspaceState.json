@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\DB file",
+    "\\wwwroot"
   ],
+  "SelectedNode": "\\wwwroot\\home.html",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "Hash": "O+vldrqRVlge5En1vcMS+vtgxEMD8/2hVYAectZjgGY=",
+  "Source": "testproj",
+  "BasePath": "_content/testproj",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "testproj\\wwwroot",
+      "Source": "testproj",
+      "ContentRoot": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\",
+      "BasePath": "_content/testproj",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\admin.html",
+      "SourceId": "testproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\",
+      "BasePath": "_content/testproj",
+      "RelativePath": "admin#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8j8le9w5sy",
+      "Integrity": "jA+NhiirR8zc3p957Np0jaMETFyfE+QVrovqkSQjeKM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin.html"
+    },
+    {
+      "Identity": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\CriminalActivity.html",
+      "SourceId": "testproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\",
+      "BasePath": "_content/testproj",
+      "RelativePath": "CriminalActivity#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "55qzmeun7i",
+      "Integrity": "Gd1MXgbQtco8qTGVxFZqt0k6YNNAHuZtZ1tHrqs0VJk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CriminalActivity.html"
+    },
+    {
+      "Identity": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\cybercrime.html",
+      "SourceId": "testproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\",
+      "BasePath": "_content/testproj",
+      "RelativePath": "cybercrime#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "byy5z0lien",
+      "Integrity": "MxNMRWzpKWUh+KwHX9AOs+lWbcHVG3b9Q9KrwDekyJw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cybercrime.html"
+    },
+    {
+      "Identity": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\home.html",
+      "SourceId": "testproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\",
+      "BasePath": "_content/testproj",
+      "RelativePath": "home#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ymft9p0ma4",
+      "Integrity": "aiGZZZyAAJtvhRwsuxC7bwwBPogM4T82T2mpUjEOlXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\home.html"
+    },
+    {
+      "Identity": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\login.html",
+      "SourceId": "testproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\",
+      "BasePath": "_content/testproj",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "up4acuj153",
+      "Integrity": "npU4dSbG46DFXSUn3Qs9bKGGCFwegKupNNCf0YHKDo0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\narcotics.html",
+      "SourceId": "testproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\",
+      "BasePath": "_content/testproj",
+      "RelativePath": "narcotics#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bgx9tjc75z",
+      "Integrity": "m/qhe5xRArhyy+BlGNjhIlNwLHFh7lW+0li2bDiDmPk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\narcotics.html"
+    },
+    {
+      "Identity": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\robbery.html",
+      "SourceId": "testproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\",
+      "BasePath": "_content/testproj",
+      "RelativePath": "robbery#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xltgmbe3k0",
+      "Integrity": "G4Tp070al5m4IiQ6yQE8xfa5apDcMfB75xkzPCJlkxE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\robbery.html"
+    },
+    {
+      "Identity": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\script.js",
+      "SourceId": "testproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\",
+      "BasePath": "_content/testproj",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kkhtklg8ll",
+      "Integrity": "zPkOvUyJQVC/dWhvEi7TsjEhcAQ1axB/fq1+BFguq70=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\styles.css",
+      "SourceId": "testproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\",
+      "BasePath": "_content/testproj",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hgmqd5bm22",
+      "Integrity": "z3oBZeGLHyuuRH0hYFwIFpUQpCSqVRgvlygqXIUHJPU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\traffic.html",
+      "SourceId": "testproj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\",
+      "BasePath": "_content/testproj",
+      "RelativePath": "traffic#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4h747l6wl7",
+      "Integrity": "2Dn5Eiy/j08DlHEQvQ0NZrxsbuRCPrhwrv/eZlgK1lE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\traffic.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "admin.8j8le9w5sy.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\admin.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jA+NhiirR8zc3p957Np0jaMETFyfE+QVrovqkSQjeKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8j8le9w5sy"
+        },
+        {
+          "Name": "label",
+          "Value": "admin.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jA+NhiirR8zc3p957Np0jaMETFyfE+QVrovqkSQjeKM="
+        }
+      ]
+    },
+    {
+      "Route": "admin.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\admin.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jA+NhiirR8zc3p957Np0jaMETFyfE+QVrovqkSQjeKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jA+NhiirR8zc3p957Np0jaMETFyfE+QVrovqkSQjeKM="
+        }
+      ]
+    },
+    {
+      "Route": "CriminalActivity.55qzmeun7i.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\CriminalActivity.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gd1MXgbQtco8qTGVxFZqt0k6YNNAHuZtZ1tHrqs0VJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 09:02:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "55qzmeun7i"
+        },
+        {
+          "Name": "label",
+          "Value": "CriminalActivity.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gd1MXgbQtco8qTGVxFZqt0k6YNNAHuZtZ1tHrqs0VJk="
+        }
+      ]
+    },
+    {
+      "Route": "CriminalActivity.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\CriminalActivity.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gd1MXgbQtco8qTGVxFZqt0k6YNNAHuZtZ1tHrqs0VJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 09:02:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gd1MXgbQtco8qTGVxFZqt0k6YNNAHuZtZ1tHrqs0VJk="
+        }
+      ]
+    },
+    {
+      "Route": "cybercrime.byy5z0lien.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\cybercrime.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MxNMRWzpKWUh+KwHX9AOs+lWbcHVG3b9Q9KrwDekyJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 08:12:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "byy5z0lien"
+        },
+        {
+          "Name": "label",
+          "Value": "cybercrime.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MxNMRWzpKWUh+KwHX9AOs+lWbcHVG3b9Q9KrwDekyJw="
+        }
+      ]
+    },
+    {
+      "Route": "cybercrime.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\cybercrime.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MxNMRWzpKWUh+KwHX9AOs+lWbcHVG3b9Q9KrwDekyJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 08:12:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MxNMRWzpKWUh+KwHX9AOs+lWbcHVG3b9Q9KrwDekyJw="
+        }
+      ]
+    },
+    {
+      "Route": "home.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aiGZZZyAAJtvhRwsuxC7bwwBPogM4T82T2mpUjEOlXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 08:14:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aiGZZZyAAJtvhRwsuxC7bwwBPogM4T82T2mpUjEOlXk="
+        }
+      ]
+    },
+    {
+      "Route": "home.ymft9p0ma4.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aiGZZZyAAJtvhRwsuxC7bwwBPogM4T82T2mpUjEOlXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 08:14:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ymft9p0ma4"
+        },
+        {
+          "Name": "label",
+          "Value": "home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aiGZZZyAAJtvhRwsuxC7bwwBPogM4T82T2mpUjEOlXk="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"npU4dSbG46DFXSUn3Qs9bKGGCFwegKupNNCf0YHKDo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-npU4dSbG46DFXSUn3Qs9bKGGCFwegKupNNCf0YHKDo0="
+        }
+      ]
+    },
+    {
+      "Route": "login.up4acuj153.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"npU4dSbG46DFXSUn3Qs9bKGGCFwegKupNNCf0YHKDo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "up4acuj153"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-npU4dSbG46DFXSUn3Qs9bKGGCFwegKupNNCf0YHKDo0="
+        }
+      ]
+    },
+    {
+      "Route": "narcotics.bgx9tjc75z.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\narcotics.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m/qhe5xRArhyy+BlGNjhIlNwLHFh7lW+0li2bDiDmPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 08:25:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bgx9tjc75z"
+        },
+        {
+          "Name": "label",
+          "Value": "narcotics.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m/qhe5xRArhyy+BlGNjhIlNwLHFh7lW+0li2bDiDmPk="
+        }
+      ]
+    },
+    {
+      "Route": "narcotics.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\narcotics.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m/qhe5xRArhyy+BlGNjhIlNwLHFh7lW+0li2bDiDmPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 08:25:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m/qhe5xRArhyy+BlGNjhIlNwLHFh7lW+0li2bDiDmPk="
+        }
+      ]
+    },
+    {
+      "Route": "robbery.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\robbery.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G4Tp070al5m4IiQ6yQE8xfa5apDcMfB75xkzPCJlkxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 07:59:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G4Tp070al5m4IiQ6yQE8xfa5apDcMfB75xkzPCJlkxE="
+        }
+      ]
+    },
+    {
+      "Route": "robbery.xltgmbe3k0.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\robbery.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G4Tp070al5m4IiQ6yQE8xfa5apDcMfB75xkzPCJlkxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 07:59:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xltgmbe3k0"
+        },
+        {
+          "Name": "label",
+          "Value": "robbery.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G4Tp070al5m4IiQ6yQE8xfa5apDcMfB75xkzPCJlkxE="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zPkOvUyJQVC/dWhvEi7TsjEhcAQ1axB/fq1+BFguq70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zPkOvUyJQVC/dWhvEi7TsjEhcAQ1axB/fq1+BFguq70="
+        }
+      ]
+    },
+    {
+      "Route": "script.kkhtklg8ll.js",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zPkOvUyJQVC/dWhvEi7TsjEhcAQ1axB/fq1+BFguq70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kkhtklg8ll"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zPkOvUyJQVC/dWhvEi7TsjEhcAQ1axB/fq1+BFguq70="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3oBZeGLHyuuRH0hYFwIFpUQpCSqVRgvlygqXIUHJPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3oBZeGLHyuuRH0hYFwIFpUQpCSqVRgvlygqXIUHJPU="
+        }
+      ]
+    },
+    {
+      "Route": "styles.hgmqd5bm22.css",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3oBZeGLHyuuRH0hYFwIFpUQpCSqVRgvlygqXIUHJPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:28:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hgmqd5bm22"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3oBZeGLHyuuRH0hYFwIFpUQpCSqVRgvlygqXIUHJPU="
+        }
+      ]
+    },
+    {
+      "Route": "traffic.4h747l6wl7.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\traffic.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Dn5Eiy/j08DlHEQvQ0NZrxsbuRCPrhwrv/eZlgK1lE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 05:50:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4h747l6wl7"
+        },
+        {
+          "Name": "label",
+          "Value": "traffic.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Dn5Eiy/j08DlHEQvQ0NZrxsbuRCPrhwrv/eZlgK1lE="
+        }
+      ]
+    },
+    {
+      "Route": "traffic.html",
+      "AssetFile": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\wwwroot\\traffic.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Dn5Eiy/j08DlHEQvQ0NZrxsbuRCPrhwrv/eZlgK1lE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 05:50:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Dn5Eiy/j08DlHEQvQ0NZrxsbuRCPrhwrv/eZlgK1lE="
+        }
+      ]
+    }
+  ]
+}

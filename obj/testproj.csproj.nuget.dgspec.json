@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\senith\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.csproj": {}
+    "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\senith\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.csproj": {
+    "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\senith\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.csproj",
+        "projectUniqueName": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.csproj",
         "projectName": "testproj",
-        "projectPath": "C:\\Users\\senith\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.csproj",
-        "packagesPath": "C:\\Users\\senith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\senith\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\obj\\",
+        "projectPath": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\testproj.csproj",
+        "packagesPath": "C:\\Users\\Senithu Dasanayake\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Senithu Dasanayake\\Downloads\\Integrated-Police-Operations-Management-System-IPOMS-for-Sri-Lanka\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\senith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Senithu Dasanayake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -48,6 +53,12 @@
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.4, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -91,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
